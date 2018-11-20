@@ -7,5 +7,6 @@ def prime?(number)
     if number%divided==0
         return false
     end
+  end
     return true
 end
